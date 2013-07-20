@@ -1,5 +1,4 @@
-Hello, Git
+Hello, Git.
 
 Hello, World. 
-
-Hi
+https://github.com/arieloveric/GitFoundamentals.git
